@@ -11,3 +11,5 @@ Diego Miglino - dmiglino@gmail.com - https://www.linkedin.com/in/diegomiglino/ -
 Federico Fia Sare - fsare@culturait.com.ar - https://www.linkedin.com/in/federico-gabriel-fia-sare-193709146/ - Technical Lead - Curso Cloud Devops en Educación IT
 
 Gaspar Champaña - gchampa@gmail.com - https://www.linkedin.com/in/gaspar-champa%C3%B1a-86b14b144/ - Sysadmin - Curso Cloud Devops en Educación IT
+
+Leonardo Armesto - leonardo.armesto@gmail.com - https://www.linkedin.com/in/leonardoarmesto/ - Security Incident Responder - Curso Cloud Devops en Educación IT
